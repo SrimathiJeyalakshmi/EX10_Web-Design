@@ -19,7 +19,8 @@
 
 
 ## OUTPUT
-![agriagency](https://github.com/SrimathiJeyalakshmi/EX10_Web-Design/assets/127816530/d05546fe-ddab-4cfa-b2eb-9c241fa19549)
+![agriagency](https://github.com/SrimathiJeyalakshmi/EX10_Web-Design/assets/127816530/374484f3-a8cf-4ccd-9ad0-3545f7bb1d65)
+
 
 
 ## RESULT
